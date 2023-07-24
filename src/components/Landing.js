@@ -129,7 +129,7 @@ return (
                                     
                     <div className='col-lg-12 col-md-12 col-sm-12 col-xs-12'>
                         <div className='generalinputs'>
-
+                        <h1> Format Flipper </h1>
                         <select value={selectedExtension} onChange={handleExtensionChange}>
                             <option value="png">PNG</option>
                             <option value="jpeg">JPEG</option>
