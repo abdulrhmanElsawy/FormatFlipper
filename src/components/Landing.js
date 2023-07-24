@@ -129,7 +129,6 @@ return (
                                     
                     <div className='col-lg-12 col-md-12 col-sm-12 col-xs-12'>
                         <div className='generalinputs'>
-                        <h1> Format Flipper </h1>
                         <select value={selectedExtension} onChange={handleExtensionChange}>
                             <option value="png">PNG</option>
                             <option value="jpeg">JPEG</option>
@@ -140,6 +139,9 @@ return (
                             {/* SVG option is removed from the select element */}
                             </select>
                             <button onClick={handleDownload}>Download Images</button>
+
+                            <h1> Format Flipper </h1>
+
                         </div>
 
                     </div>
