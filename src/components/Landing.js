@@ -140,7 +140,7 @@ return (
                             Pixelwise resize
                         </a>
 
-                        <a href='https://abdulrhmanelsawy.github.io/ChromaSelect/'>
+                        <a href='https://abdulrhmanelsawy.github.io/ChormaSelect/'>
                             Chroma Select
                         </a>
 
