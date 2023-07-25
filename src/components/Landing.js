@@ -129,6 +129,24 @@ return (
                                     
                     <div className='col-lg-12 col-md-12 col-sm-12 col-xs-12'>
                         <div className='generalinputs'>
+
+                                
+                <div className='another-tools'>
+                        <h6> 
+                            Another Tools
+                        </h6>
+
+                        <a href='https://abdulrhmanelsawy.github.io/PixelWise-Resize/'>
+                            Pixelwise resize
+                        </a>
+
+                        <a href='https://abdulrhmanelsawy.github.io/ChromaSelect/'>
+                            Chroma Select
+                        </a>
+
+
+                    </div>
+
                         <select value={selectedExtension} onChange={handleExtensionChange}>
                             <option value="png">PNG</option>
                             <option value="jpeg">JPEG</option>
